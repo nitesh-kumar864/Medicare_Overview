@@ -1,4 +1,12 @@
-# 🏥 Medicare – Full Stack Healthcare Management Platform &nbsp; | &nbsp; 🌐 [Live Demo](https://medicare-pr8s.onrender.com)
+<h1 align="center">🏥 Medicare</h1>
+
+<p align="center">
+  <b>Full Stack Healthcare Management Platform</b>
+</p>
+
+<h3 align="center">
+  🌐 <a href="https://medicare-pr8s.onrender.com" target="_blank"><b>Live Demo</b></a>
+</h3>
 
 <!-- BADGES -->
 <p align="center">
@@ -9,8 +17,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-
-
 ---
 
 ## 🔒 Source Code Notice
@@ -20,6 +26,109 @@
 The working application, including all implemented features, is available via the live deployment link below.
 
 🔗 **Live Demo:** https://medicare-pr8s.onrender.com/
+
+---
+## 📸 Screenshots
+
+### 🏠 Home Page
+<p align="center">
+  <img src="screenshots/home.png" width="80%"/>
+</p>
+<p align="center"><i>Hero section with doctor booking, bed availability, and service highlights.</i></p>
+
+
+### 👨‍⚕️ Doctor Listing Page
+
+<p align="center">
+  <img src="screenshots/doctors.png" width="80%"/>
+</p>
+
+<p align="center">
+  <i>Browse verified doctors with availability status, specialization details, and quick booking access.</i>
+</p>
+
+### 📅 Doctor Profile & Appointment Booking
+
+<p align="center">
+  <img src="screenshots/doctor-details.png" width="80%"/>
+</p>
+
+<p align="center">
+<i>Doctor profile with availability, experience, and slot-based appointment booking.</i>
+</p>
+
+
+### 📋 My Appointments Dashboard
+
+<p align="center">
+  <img src="screenshots/appointments.png" width="80%"/>
+</p>
+
+<p align="center">
+<i>Dashboard to manage appointments with status tracking, filtering, and doctor chat option.</i>
+</p>
+
+### 💬 Real-Time Doctor Chat
+
+<p align="center">
+  <img src="screenshots/chat.png" width="80%"/>
+</p>
+
+<p align="center">
+  <i>Secure real-time messaging interface enabling direct communication between patients and doctors.</i>
+</p>
+
+### 🛏️ Bed Management System
+
+<p align="center">
+  <img src="screenshots/bed-management.png" width="80%"/>
+</p>
+
+<p align="center">
+  <i>Real-time bed availability tracking with department filters, occupancy status, and utilization analytics.</i>
+</p>
+
+### 🛟 Help Center & Support
+
+<p align="center">
+  <img src="screenshots/help-center.png" width="80%"/>
+</p>
+
+<p align="center">
+<i>Help center form for submitting support queries and assistance requests.</i>
+</p>
+
+### 🩺 Doctor Dashboard Panel
+
+<p align="center">
+  <img src="screenshots/doctor-dashboard.png" width="80%"/>
+</p>
+
+<p align="center">
+  <i>Doctor dashboard displaying earnings, total appointments, patient count, and latest booking activity.</i>
+</p>
+
+### 🛠️ Admin Dashboard
+
+<p align="center">
+  <img src="screenshots/admin-dashboard.png" width="80%"/>
+</p>
+
+<p align="center">
+  <i>Comprehensive admin panel displaying revenue analytics, key metrics, doctor and patient statistics, and real-time bed management overview.</i>
+</p>
+
+### 🛏️ Admin Bed Configuration Panel
+
+<p align="center">
+  <img src="screenshots/admin-manage-beds.png" width="80%"/>
+</p>
+
+<p align="center">
+ <i>Admin panel for configuring bed capacity and managing hospital bed utilization in real-time.</i>
+</p>
+
+
 
 ---
 
