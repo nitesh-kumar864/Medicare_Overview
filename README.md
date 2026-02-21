@@ -1,12 +1,4 @@
-<h1 align="center">🏥 Medicare</h1>
-
-<p align="center">
-  <b>Full Stack Healthcare Management Platform</b>
-</p>
-
-<h3 align="center">
-  🌐 <a href="https://medicare-pr8s.onrender.com" target="_blank"><b>Live Demo</b></a>
-</h3>
+# 🏥 Medicare – Full Stack Healthcare Management Platform &nbsp; | &nbsp; 🌐 [Live Demo](https://medicare-pr8s.onrender.com)
 
 <!-- BADGES -->
 <p align="center">
@@ -337,3 +329,4 @@ CURRENCY=INR
 🔗 GitHub: https://github.com/nitesh-kumar864  
 
 📧 Email: nitesh.kumar70023@gmail.com
+
