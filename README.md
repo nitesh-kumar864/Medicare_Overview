@@ -1,4 +1,4 @@
-# 🏥 Medicare – Full Stack Healthcare Management Platform &nbsp; | &nbsp; 🌐 [Live Demo](https://medicare-pr8s.onrender.com)
+
 <h1 align="center">🏥 Medicare</h1>
 
 <p align="center">
@@ -338,5 +338,6 @@ CURRENCY=INR
 🔗 GitHub: https://github.com/nitesh-kumar864  
 
 📧 Email: nitesh.kumar70023@gmail.com
+
 
 
