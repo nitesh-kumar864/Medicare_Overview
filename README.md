@@ -1,5 +1,13 @@
-# 🏥 Medicare – Full Stack Healthcare Management Platform &nbsp; | &nbsp; 🌐 [Live Demo](https://medicare-pr8s.onrender.com)
 
+<h1 align="center">🏥 Medicare</h1>
+
+<p align="center">
+  <b>Full Stack Healthcare Management Platform</b>
+</p>
+
+<h3 align="center">
+  🌐 <a href="https://medicare-pr8s.onrender.com" target="_blank"><b>Live Demo</b></a>
+</h3>
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -53,17 +61,17 @@ The working application, including all implemented features, is available via th
 ### 📋 My Appointments Dashboard
 
 <p align="center">
-  <img src="screenshots/appointments.png" width="80%"/>
+  <img src="screenshots/MyAppointments.png" width="80%"/>
 </p>
 
 <p align="center">
-<i>Dashboard to manage appointments with status tracking, filtering, and doctor chat option.</i>
+<i>Dashboard to manage appointments with status tracking, filtering, prescription and doctor chat option.</i>
 </p>
 
 ### 💬 Real-Time Doctor Chat
 
 <p align="center">
-  <img src="screenshots/chat.png" width="80%"/>
+  <img src="screenshots/chats.png" width="80%"/>
 </p>
 
 <p align="center">
@@ -73,11 +81,21 @@ The working application, including all implemented features, is available via th
 ### 🛏️ Bed Management System
 
 <p align="center">
-  <img src="screenshots/bed-management.png" width="80%"/>
+  <img src="screenshots/bed_dashboard.png" width="80%"/>
 </p>
 
 <p align="center">
   <i>Real-time bed availability tracking with department filters, occupancy status, and utilization analytics.</i>
+</p>
+
+### 🛏️ My Bed Dashboard
+
+<p align="center">
+  <img src="screenshots/MyBed.png" width="80%"/>
+</p>
+
+<p align="center">
+  <i>Dasboard to manage bed with status, filtering and functionality.</i>
 </p>
 
 ### 🛟 Help Center & Support
